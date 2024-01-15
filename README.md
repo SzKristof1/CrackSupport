@@ -10,3 +10,4 @@ Itt fogod megtalálni a crackelt alkalmazásokhoz készített útmutatókat.
 
 ## Útmutatók
 
+[TikTok](https://github.com/SzKristof1/CrackSupport/blob/main/TikTok.md)
