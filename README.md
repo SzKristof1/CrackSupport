@@ -8,4 +8,4 @@ Welcome to the world of crack manuals!
 
 Itt fogod megtalálni a crackelt alkalmazásokhoz készített útmutatókat.
 
-🚦WIP
+#🚦WIP
