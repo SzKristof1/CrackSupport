@@ -1,32 +1,4 @@
-### TikTok Patch telepítése
-
-## Tartalom
-
-[Dokumentum eleje](#tiktok-patch-telepítése)
-
-[Lehetőségeid](#lehetőségek)
-
-[0. lépés](#0.-lépés:-eredeti-tiktok-letörlése-az-eszközről)
-
-[1. lépés](#1.-lépés:-letöltés)
-
-  [1Fichier](#1fichier)
-
-  [DDownload](#ddownload)
-
-  [Download.gg](#download.gg)
-
-  [Clicknupload.cc(clicknupload.click, clickndownload.click)](#clicknupload.cc(clicknupload.click,-clickndownload.click))
-
-  [Workupload.com](#workupload.com)
-
-  [Hamarosan...](#hamarosan...)
-
-  [Ha egyik fent említett oldal sem működik](#ha-egyik-fent-említett-oldal-sem-működik)
-
-[2. lépés](#2.-lépés:-telepítés)
-
-[FIGYELEM!!](#figyelem!!)
+## TikTok Patch telepítése
 
 ## Lehetőségek
 
@@ -78,7 +50,7 @@ Ha az Open Link-re nyomás után egy rövid "kacsás" animációt látsz, akkor 
 
 Innentől kezdve az átirányított oldaltól függ, hogy mit kell csinálnod. Az oldalak:
 
-#**1Fichier**
+**1Fichier**
 
 Fogadd el a sütiket (jobb felső sarokban a link), majd a képen kijelölt x-re kattints/nyomj.
 
@@ -102,7 +74,7 @@ Ha viszont szerencséd van, akkor ezt kell, hogy lásd (a narancssárga Download
 
 Itt a kijelölt gombra nyomva/kattintva elindul a letöltés.
 
-#**DDownload**
+**DDownload**
 
 Itt egyszerűbb a dolgod. Azután, hogy bebizonyítottad a rendszernek, hogy te bizony ember vagy, csak a nagy, kék DOWNLOAD gombra kell kattintani/nyomni.
 
@@ -112,7 +84,7 @@ HA ez jelenik meg:
 
 ...akkor itt nincs szerencséd, menj vissza az üzenethez, ott pedig a következő linkre kattintva próbálkozz újra.
 
-#**Download.gg**
+**Download.gg**
 
 Ez eggyel trükkösebb. Az Open Link gombra nyomás/kattintás után a következő képernyőt kell, hogy lásd: 
 
@@ -124,7 +96,7 @@ Itt a kijelölt linkre kattints/nyomj, majd ez a képernyő fogad:
 
 Itt szintén a kijelölt gombra kattintva/nyomva elindul a letöltés.
 
-#**Clicknupload.cc(clicknupload.click, clickndownload.click)**
+**Clicknupload.cc(clicknupload.click, clickndownload.click)**
 
 Az Open Link-re nyomás/kattintás után ez a képernyő fogad majd:
 
@@ -144,7 +116,7 @@ Itt nyomj/kattints a Create download link feliratú gombra.
 
 Ezen az oldalon a kijelölt gombra nyomva/kattintva elindul a letöltés.
 
-#**Workupload.com**
+**Workupload.com**
 
 Az oldal egy gyors robotellenőrzés után ide navigál:
 
@@ -156,13 +128,13 @@ Itt a kijelölt Download gombra kattintás/nyomás után újra átirányít az o
 
 Ha a letöltés 10mp-en belül nem indul el, akkor a fenti képen a kijelölt linkre kattintás/nyomás manuálisan elindítja a letöltést.
 
-#**Hamarosan...**
+**Hamarosan...**
 
 Igyekszem minél több fájlmegosztóra feltenni a programokat, de ez nem olyan egyszerű. 
 
 Várhatóan itt egyre több oldal letöltési útmutatója fog megjelenni.
 
-#**Ha egyik fent említett oldal sem működik**
+**Ha egyik fent említett oldal sem működik**
 
 Sajnállak. Írj egy DM-et nekem (messenger: Kristóf Szür, reddit: u/SzKristof1, Discord: _3dman_), és tudok adni egy privát linket, amivel le tudod tölteni az appot.
 
