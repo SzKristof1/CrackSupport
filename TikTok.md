@@ -1,4 +1,34 @@
-## TikTok Patch telepítése
+### TikTok Patch telepítése
+
+## Tartalom
+
+[Dokumentum eleje](#tiktok-patch-telepítése)
+
+[Lehetőségeid](#lehetőségek)
+
+[0. lépés](#0.-lépés:-eredeti-tiktok-letörlése-az-eszközről)
+
+[1. lépés](#1.-lépés:-letöltés)
+
+  [1Fichier](#1fichier)
+
+  [DDownload](#ddownload)
+
+  [Download.gg](#download.gg)
+
+  [Clicknupload.cc(clicknupload.click, clickndownload.click)](#clicknupload.cc(clicknupload.click,-clickndownload.click))
+
+  [Workupload.com](#workupload.com)
+
+  [Hamarosan...](#hamarosan...)
+
+  [Ha egyik fent említett oldal sem működik](#ha-egyik-fent-említett-oldal-sem-működik)
+
+[2. lépés](#2.-lépés:-telepítés)
+
+[FIGYELEM!!](#figyelem!!)
+
+## Lehetőségek
 
 Két járható út van: 
 
@@ -34,9 +64,21 @@ Ezen a képernyőn az időzítő lejárta után a jobb felső sarokban találhat
 
 Az itt látható képernyőn az Open Link-re kell kattintani/nyomni.  NEHOGY A ZÖLD DOWNLOAD-RA NYOMJ!!!!!!
 
+Ha ezt látod: 
+
+![Képernyőkép 2024-01-16 174659](https://github.com/SzKristof1/CrackSupport/assets/109332719/2b70fd5e-f71b-4ca5-94b3-df0a3499081c)
+
+...az nem jelent jót, lehet, hogy vírust is letöltöttél az app-pal együtt. Javaslom az ESET Security letöltését:
+
+[Android](https://play.google.com/store/apps/details?id=com.eset.ems2.gp)
+
+[PC](https://www.eset.com/hu/otthoni/online-scanner/)
+
+Ha az Open Link-re nyomás után egy rövid "kacsás" animációt látsz, akkor átirányít az oldal, és lentről folytathato
+
 Innentől kezdve az átirányított oldaltól függ, hogy mit kell csinálnod. Az oldalak:
 
-**1Fichier**
+#**1Fichier**
 
 Fogadd el a sütiket (jobb felső sarokban a link), majd a képen kijelölt x-re kattints/nyomj.
 
@@ -60,7 +102,7 @@ Ha viszont szerencséd van, akkor ezt kell, hogy lásd (a narancssárga Download
 
 Itt a kijelölt gombra nyomva/kattintva elindul a letöltés.
 
-**DDownload**
+#**DDownload**
 
 Itt egyszerűbb a dolgod. Azután, hogy bebizonyítottad a rendszernek, hogy te bizony ember vagy, csak a nagy, kék DOWNLOAD gombra kell kattintani/nyomni.
 
@@ -70,7 +112,7 @@ HA ez jelenik meg:
 
 ...akkor itt nincs szerencséd, menj vissza az üzenethez, ott pedig a következő linkre kattintva próbálkozz újra.
 
-**Download.gg**
+#**Download.gg**
 
 Ez eggyel trükkösebb. Az Open Link gombra nyomás/kattintás után a következő képernyőt kell, hogy lásd: 
 
@@ -82,13 +124,45 @@ Itt a kijelölt linkre kattints/nyomj, majd ez a képernyő fogad:
 
 Itt szintén a kijelölt gombra kattintva/nyomva elindul a letöltés.
 
-**Hamarosan...**
+#**Clicknupload.cc(clicknupload.click, clickndownload.click)**
+
+Az Open Link-re nyomás/kattintás után ez a képernyő fogad majd:
+
+![Képernyőkép 2024-01-16 174254](https://github.com/SzKristof1/CrackSupport/assets/109332719/a9491838-64e5-4263-b353-e2c009d5d459)
+
+Itt a képen kijelölt Slow Download gombra kattints/nyomj. Egy gyors átirányítás után ezt kell, hogy lásd:
+
+![Képernyőkép 2024-01-16 174324](https://github.com/SzKristof1/CrackSupport/assets/109332719/e943f541-f2e2-4def-8169-15f780e46428)
+
+Itt az idő lejárta után add meg a kódot annak bizonyítására, hogy ember vagy:
+
+![Képernyőkép 2024-01-16 174401](https://github.com/SzKristof1/CrackSupport/assets/109332719/2181dd29-5ef0-4e6d-a210-6ac7fe93f371)
+
+Itt nyomj/kattints a Create download link feliratú gombra.
+
+![Képernyőkép 2024-01-16 174430](https://github.com/SzKristof1/CrackSupport/assets/109332719/9529bbd2-f024-4df8-806e-6e8e6b6d7d70)
+
+Ezen az oldalon a kijelölt gombra nyomva/kattintva elindul a letöltés.
+
+#**Workupload.com**
+
+Az oldal egy gyors robotellenőrzés után ide navigál:
+
+![Képernyőkép 2024-01-16 175325](https://github.com/SzKristof1/CrackSupport/assets/109332719/b0eb45bb-3599-40b4-b8cf-cbf7e6ea2477)
+
+Itt a kijelölt Download gombra kattintás/nyomás után újra átirányít az oldal, és ide jutsz, miközben a letöltés elkezdődik:
+
+![Képernyőkép 2024-01-16 175414](https://github.com/SzKristof1/CrackSupport/assets/109332719/6e3d4857-b005-42e9-9ecf-df82d1b19d69)
+
+Ha a letöltés 10mp-en belül nem indul el, akkor a fenti képen a kijelölt linkre kattintás/nyomás manuálisan elindítja a letöltést.
+
+#**Hamarosan...**
 
 Igyekszem minél több fájlmegosztóra feltenni a programokat, de ez nem olyan egyszerű. 
 
 Várhatóan itt egyre több oldal letöltési útmutatója fog megjelenni.
 
-**Ha egyik fent említett oldal sem működik**
+#**Ha egyik fent említett oldal sem működik**
 
 Sajnállak. Írj egy DM-et nekem (messenger: Kristóf Szür, reddit: u/SzKristof1, Discord: _3dman_), és tudok adni egy privát linket, amivel le tudod tölteni az appot.
 
